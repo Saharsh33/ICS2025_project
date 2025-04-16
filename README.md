@@ -21,7 +21,8 @@ Make sure the following MNIST files are placed in the project directory:
 
 ## Build Instructions
 
-To compile all `.c` files and build the project:
+To compile all `.c` files and run the project, use the following commands:
 
 ```bash
 gcc *.c -o mnist `pkg-config --cflags --libs lept`
+./mnist
