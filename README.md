@@ -1,6 +1,6 @@
 # MNIST Digit Recognition in C using Leptonica
 
-This project was developed by me and my friends from IIT Jodhpur for the course *ICS1010*. It implements a handwritten digit recognition neural network in C, using the Leptonica image processing library.
+This project was developed by me and my friends from IIT Jodhpur for the course *CSL1010*. It implements a handwritten digit recognition neural network in C, using the Leptonica image processing library.
 
 ## Features
 - Neural network built from scratch using manual matrix operations
